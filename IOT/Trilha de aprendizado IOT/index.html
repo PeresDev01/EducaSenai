@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trilha de Aprendizado</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="logo">
+      <img src="logoEducaSenai.png" alt="Logo EducaSenai" />
+    </div>
+    <div class="user-info">
+      <a href="index.html" class="user-avatar-link">
+        <img src="user-avatar.jpg" alt="Foto do usuário" class="user-avatar" />
+      </a>
+      <div class="user-name">Edufinho Aqua</div>
+      <div class="user-role">Aluno</div>
+    </div>
+    <nav>
+      <ul>
+        <li>
+          <a href="#" class="active">
+            <img src="casa.png" alt="Inicial" /> Inicial
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <button class="toggle-menu" title="Contrair menu">&#9776;</button>
+  </div>
+
+  <button class="expand-sidebar" title="Abrir menu">&#9776;</button>
+
+  <!-- Conteúdo principal -->
+  <div class="main-content">
+    <!-- Mascote fixo -->
+    <div class="mascote">
+      <img src="./eduvfinho no back (1).gif" alt="Mascote" />
+    </div>
+
+    <!-- Trilha de aprendizado -->
+    <div class="trilha">
+      <div class="bolinha" onclick="marcar(this)" data-numero="1">1</div>
+      <div class="bolinha" onclick="marcar(this)" data-numero="2">2</div>
+      <div class="bolinha" onclick="marcar(this)" data-numero="3">3</div>
+      <div class="bolinha" onclick="marcar(this)" data-numero="4">4</div>
+      <div class="bolinha" onclick="marcar(this)" data-numero="5">5</div>
+      <div class="bolinha" onclick="marcar(this)" data-numero="6">6</div>
+      <div class="bolinha" onclick="marcar(this)" data-numero="7">7</div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
