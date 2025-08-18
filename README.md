@@ -1,13 +1,3 @@
-Show, Diego! 👌
-Ajustei o **README** para:
-
-* Colocar o link do **Canva** no protótipo.
-* Trocar **MySQL** por **HeidiSQL** (que é a ferramenta de gerenciamento do banco).
-
-Aqui está a versão final:
-
----
-
 # 📚 EducaSenai - Plataforma de Reforço Escolar
 
 **Equipe \ DeepCode | Projeto Integrador SENAI**
@@ -102,12 +92,12 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 
 ### Backend
 
-* **Nome 1** → [@usuarioGitHub](https://github.com/)
+* **Nome 1** → [@DevJulioo](https://github.com/)
 * **Nome 2** → [@usuarioGitHub](https://github.com/)
 
 ### Frontend
 
-* **Nome 3** → [@usuarioGitHub](https://github.com/)
+* **Nome 3** → [@diegoperes-2906](https://github.com/)
 * **Nome 4** → [@usuarioGitHub](https://github.com/)
 
 ### Banco de Dados
@@ -119,5 +109,3 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 > Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
 
 ---
-
-👉 Quer que eu já gere o arquivo **README.md** pronto pra você baixar e usar direto no GitHub?
