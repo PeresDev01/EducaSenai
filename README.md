@@ -1,3 +1,13 @@
+Show, Diego! 👌
+Ajustei o **README** para:
+
+* Colocar o link do **Canva** no protótipo.
+* Trocar **MySQL** por **HeidiSQL** (que é a ferramenta de gerenciamento do banco).
+
+Aqui está a versão final:
+
+---
+
 # 📚 EducaSenai - Plataforma de Reforço Escolar
 
 **Equipe \ DeepCode | Projeto Integrador SENAI**
@@ -7,7 +17,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HeidiSQL-005C84?style=for-the-badge&logoColor=white" alt="HeidiSQL"/>
 </p>  
 
 ---
@@ -44,7 +54,7 @@ A plataforma proporciona uma experiência **personalizada e interativa**, permit
 
 * **Backend:** Java 21 com Spring Boot Framework
 * **Frontend (Web/Mobile):** React e React Native
-* **Banco de Dados:** MySQL
+* **Banco de Dados:** HeidiSQL
 * **Controle de Versão:** Git e GitHub
 
 ---
@@ -54,7 +64,7 @@ A plataforma proporciona uma experiência **personalizada e interativa**, permit
 A interface e a experiência do usuário foram desenvolvidas no **Canva**.
 
 <p>
-  <a href="https://www.canva.com/design/SEU-LINK-AQUI">
+  <a href="https://www.canva.com/design/DAGR-jSIjFM/72yWjHRLuUFx00sW_hBRGA/edit">
     <img src="https://img.shields.io/badge/Canva-Acessar%20Protótipo-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Link para o Canva">
   </a>
 </p>  
@@ -81,7 +91,7 @@ npm start
 **Pré-requisitos:**
 * Java JDK 21+
 * Maven ou Gradle
-* MySQL Server
+* HeidiSQL
 ```
 
 ---
@@ -109,3 +119,5 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 > Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
 
 ---
+
+👉 Quer que eu já gere o arquivo **README.md** pronto pra você baixar e usar direto no GitHub?
