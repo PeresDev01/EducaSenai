@@ -92,17 +92,17 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 
 ### Backend
 
-* **Nome 1** → [@DevJulioo](https://github.com/)
-* **Nome 2** → [@usuarioGitHub](https://github.com/)
+* **Julio Cesar** → [@DevJulioo](https://github.com/)
+* **Luiz Fernandi** → [@usuarioGitHub](https://github.com/)
 
 ### Frontend
 
-* **Nome 3** → [@diegoperes-2906](https://github.com/)
-* **Nome 4** → [@usuarioGitHub](https://github.com/)
+* **Diego Peres** → [@diegoperes-2906](https://github.com/)
+* **Amanda Tavares** → [@usuarioGitHub](https://github.com/)
 
 ### Banco de Dados
 
-* **Nome 5** → [@luizadamasceno19](https://github.com/)
+* **Luiza Damasceno** → [@luizadamasceno19](https://github.com/)
 
 ---
 
