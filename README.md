@@ -1,6 +1,6 @@
 # 📚 EducaSenai - Plataforma de Reforço Escolar
 
-**Equipe \[nome da equipe] | Projeto Integrador SENAI**
+**Equipe \ DeepCode | Projeto Integrador SENAI**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -51,11 +51,11 @@ A plataforma proporciona uma experiência **personalizada e interativa**, permit
 
 ## 🎨 Protótipo (UI/UX)
 
-A interface e a experiência do usuário foram desenvolvidas no Figma.
+A interface e a experiência do usuário foram desenvolvidas no **Canva**.
 
 <p>
-  <a href="https://www.figma.com/design/SEU-LINK-AQUI">
-    <img src="https://img.shields.io/badge/Figma-Acessar%20Protótipo-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Link para o Figma">
+  <a href="https://www.canva.com/design/SEU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/Canva-Acessar%20Protótipo-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Link para o Canva">
   </a>
 </p>  
 
@@ -102,11 +102,10 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 
 ### Banco de Dados
 
-* **Nome 5** → [@usuarioGitHub](https://github.com/)
+* **Nome 5** → [@luizadamasceno19](https://github.com/)
 
 ---
 
 > Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
 
 ---
-
