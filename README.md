@@ -93,7 +93,7 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 ### Backend
 
 * **Julio Cesar** → [@DevJulioo](https://github.com/)
-* **Luiz Fernandi** → [@usuarioGitHub](https://github.com/)
+* **Luiz Fernando** → [@usuarioGitHub](https://github.com/)
 
 ### Frontend
 
