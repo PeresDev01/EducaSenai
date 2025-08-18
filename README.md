@@ -1,4 +1,4 @@
-# 📚 EducaSenai - Plataforma de Reforço Escolar
+# 📚 EducaSenai - Plataforma de Reforço Escolar🐬
 
 **Equipe \ DeepCode | Projeto Integrador SENAI**
 
