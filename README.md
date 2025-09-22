@@ -106,6 +106,6 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 
 ---
 
-> Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
+> Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI SUIÇO-BRASILEIRA**.
 
 ---
