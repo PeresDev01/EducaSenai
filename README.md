@@ -106,7 +106,7 @@ Este projeto é o resultado da colaboração de uma equipe dedicada e multidisci
 
 ---
 
-> Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI SUIÇO-BRASILEIRA <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/921c921f-2c89-4352-a848-82cbe6a9f6b0" />
+> Projeto desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas do **SENAI SUIÇO-BRASILEIRA
 **.
 
 ---
