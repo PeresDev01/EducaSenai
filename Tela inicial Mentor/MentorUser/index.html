@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Meu Perfil</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="logo">
+            <img src="/UserScreen/logoEducaSenai.png" alt="Logo">
+        </div>
+        <div class="user-info">
+            <a href="#" class="user-avatar-link">
+                <img src="img/user-avatar.jpg" alt="Foto do usuário" class="user-avatar">
+            </a>
+            <div class="user-name">Andressa</div>
+            <div class="user-role">Mentor</div>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/Tela inicial Mentor/index.html" class="active">
+                    <img src="./casa.png" alt="Inicial">
+                    Inicio
+                </a></li>
+                <li><a href="/TelaInicial/index.html">
+                    <img src="./sair.png" alt="Sair">
+                    Sair
+                </a></li>
+            </ul>
+        </nav>
+        <!-- Botão para alternar a visibilidade da sidebar -->
+        <button class="toggle-menu" title="Contrair menu">
+            &#9776;
+        </button>
+    </div>
+
+    <!-- Botão para expandir a sidebar, visível apenas quando colapsada -->
+    <button class="expand-sidebar" title="Abrir menu">
+        &#9776;
+    </button>
+    <h1>Meu Perfil</h1>
+    
+    <!-- Conteúdo -->
+<div class="content">
+  <!-- Aba: Perfil -->
+  <div class="tab-panel show" id="perfil">
+
+    <!-- Perfil + Progresso lado a lado -->
+    <div class="perfil-topo">
+      <!-- Cabeçalho do perfil -->
+      <div class="profile-head">
+        <div class="avatar-wrap">
+          <img id="avatar-img" src="img/user-avatar.jpg" alt="Foto do usuário"/>
+          <label class="avatar-upload">
+            <input type="file" id="avatar-input" accept="image/*" />
+            Trocar foto
+          </label>
+        </div>
+
+        <div class="identity">
+          <h2 id="nome-view">Andressa Silva</h2>
+          <p class="role">Mentor</p>
+
+          <!-- Formulário dentro do perfil -->
+          <form class="form" id="perfil-form">
+            <div class="field">
+              <label for="nome">Nome</label>
+              <input type="text" id="nome" value="Andressa Silva"/>
+            </div>
+
+            <div class="field">
+              <label for="email">Email</label>
+              <input type="email" id="email" value="andressa.silva@example.com"/>
+            </div>
+
+            <div class="field">
+              <label for="senha">Senha</label>
+              <div class="password-row">
+                <input type="password" id="senha" value="12345678"/>
+                <button type="button" class="muted" id="toggle-pass">Mostrar</button>
+              </div>
+            </div>
+
+            <button type="submit" class="primary">Salvar Alterações</button>
+          </form>
+        </div>
+      </div>
+
+     
+
+
+
+  <script src="perfil.js"></script>
+</body>
+</html>
