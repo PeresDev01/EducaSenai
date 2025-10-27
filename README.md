@@ -241,3 +241,35 @@ A autenticação é realizada via **Token JWT**. Após o login bem-sucedido, o t
 ├── css/                     # Arquivos CSS globais (se houver)
 ├── js/                      # Arquivos JS globais (se houver)
 └── README.md                # Este arquivo de documentação
+
+````
+
+
+---
+
+## 🤝 Equipe
+
+Este projeto foi desenvolvido pela seguinte equipe:
+
+* **[Júlio Cesar de Souza Moura]**  - [Função - Dev Backend/web] - ([@DevJulioo](https://github.com/DevJulioo))
+* **[Luiz Fernando Miguel Higino]** - [Função - Dev Backend/mobile] - ([@HiginoFernando](https://github.com/HiginoFernando))
+* **[Amanda Tavares Santos]**   - [Função - Dev Frontend/UI/UX] - ([@amandaatts](https://github.com/amandaatts))
+* **[Luiza Santos Damasceno]**  - [Função - Dev Banco de dados] - ([@luizadamasceno19](https://github.com/luizadamasceno19))
+* **[Diego Peres dos Santos ]** - [Função - Frontend Mobile] - ([@PeresDev01](https://github.com/PeresDev01))
+
+
+---
+
+## 👨‍🏫 Orientador
+
+* **Prof. [Atila Andreatti Olivi e Fiama Brenda Barbosa dos Santos]**
+    * SENAI Santo Amaro - Suíço-Brasileira
+
+---
+
+## 📝 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos como Trabalho de Conclusão de Curso (TCC). Todos os direitos são reservados aos autores e à instituição.
+
+---
+*Última atualização: Outubro de 2025*
