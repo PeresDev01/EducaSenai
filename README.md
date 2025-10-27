@@ -131,7 +131,7 @@ Siga os passos abaixo para rodar o frontend em sua máquina:
 
 ## 📸 Screenshots
 
-* Imagens das principais telas para ilustrar o projeto.*
+* Imagens das principais telas para ilustrar o projeto. *
 
 <p align="center">
   <em>(Tela de Login Aluno)</em><br>
@@ -142,7 +142,6 @@ Siga os passos abaixo para rodar o frontend em sua máquina:
   <em>(Tela de Login Mentor)</em><br>
   <img src="[Link ou caminho relativo para screenshot, ex: ./screenshots/login.png]" alt="Tela de Login" width="70%"/>
 </p>
-<br>
 <br>
 <p align="center">
   <em>(Dashboard do Aluno)</em><br>
