@@ -131,26 +131,67 @@ Siga os passos abaixo para rodar o frontend em sua máquina:
 
 ## 📸 Screenshots
 
-* Imagens das principais telas para ilustrar o projeto. *
+Abaixo estão as capturas de tela das principais interfaces do EducaSenai, organizadas por perfil de usuário.
+
+### 👨‍🎓 Visão do Aluno
 
 <p align="center">
-  <em>(Tela de Login Aluno)</em><br>
-  <img src="[Link ou caminho relativo para screenshot, ex: ./screenshots/login.png]" alt="Tela de Login" width="70%"/>
+  <strong>1. Tela de Login (Aluno)</strong><br>
+  <em>Interface de acesso dedicada aos alunos.</em><br>
+  <img src="./screenshots/TelaLoginAluno.png" alt="Tela de Login - Aluno" width="70%"/>
 </p>
 <br>
+
 <p align="center">
-  <em>(Tela de Login Mentor)</em><br>
-  <img src="[Link ou caminho relativo para screenshot, ex: ./screenshots/login.png]" alt="Tela de Login" width="70%"/>
+  <strong>2. Dashboard Principal (Aluno)</strong><br>
+  <em>Visão geral dos cursos, ofensivas, feedbacks e agendamentos.</em><br>
+  <img src="./screenshots/DashBoardAluno.png" alt="Dashboard Principal - Aluno" width="70%"/>
 </p>
 <br>
+
 <p align="center">
-  <em>(Dashboard do Aluno)</em><br>
-  <img src="[Link ou caminho relativo para screenshot, ex: ./screenshots/dashboard_aluno.png]" alt="Dashboard do Aluno" width="70%"/>
+  <strong>3. Agendamento de Reunião (Aluno)</strong><br>
+  <em>Formulário e calendário para solicitar encontros com mentores.</em><br>
+  <img src="./screenshots/AgendarReuniaoAluno.png" alt="Tela de Agendamento de Reunião - Aluno" width="70%"/>
 </p>
 <br>
+
 <p align="center">
-  <em>(Trilha de Aprendizado)</em><br>
-  <img src="[Link ou caminho relativo para screenshot, ex: ./screenshots/trilha.png]" alt="Trilha de Aprendizado" width="70%"/>
+  <strong>4. Tela de Feedbacks (Aluno)</strong><br>
+  <em>Lista de feedbacks recebidos dos mentores.</em><br>
+  <img src="./screenshots/FeedbackAluno.png" alt="Tela de Feedbacks - Aluno" width="70%"/>
+</p>
+<br>
+
+---
+
+### 👨‍🏫 Visão do Mentor
+
+<p align="center">
+  <strong>1. Tela de Login (Mentor)</strong><br>
+  <em>Interface de acesso dedicada aos mentores.</em><br>
+  <img src="./screenshots/TelaLoginMentor.png" alt="Tela de Login - Mentor" width="70%"/>
+</p>
+<br>
+
+<p align="center">
+  <strong>2. Dashboard Principal (Mentor)</strong><br>
+  <em>Painel para gerenciamento de alunos, feedbacks e reuniões.</em><br>
+  <img src="./screenshots/DashBoardMentor.png" alt="Dashboard Principal - Mentor" width="70%"/>
+</p>
+<br>
+
+<p align="center">
+  <strong>3. Gerenciamento de Reuniões (Mentor)</strong><br>
+  <em>Tela para aprovar, recusar e visualizar solicitações de reunião.</em><br>
+  <img src="./screenshots/ReunioesMentor.png" alt="Tela de Gerenciamento de Reuniões - Mentor" width="70%"/>
+</p>
+<br>
+
+<p align="center">
+  <strong>4. Envio de Feedback (Mentor)</strong><br>
+  <em>Interface para enviar feedbacks aos alunos.</em><br>
+  <img src="./screenshots/FeedbackMentor.png" alt="Tela de Envio de Feedback - Mentor" width="70%"/>
 </p>
 
 ---
